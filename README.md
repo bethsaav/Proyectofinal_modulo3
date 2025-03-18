@@ -26,7 +26,7 @@ cd .
 
 
 ## Enlace GitHub Pages
-Link para acceder rápidamente al proyecto desde tu navegador: [proyecto_modulo2](https://bethsaav.github.io/Proyectofinal_modulo3/)
+Link para acceder rápidamente al proyecto desde tu navegador: [proyectofinal_modulo3](https://bethsaav.github.io/Proyectofinal_modulo3/)
     
 
 ### Contacto/Autor
