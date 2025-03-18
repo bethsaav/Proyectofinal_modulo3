@@ -11,7 +11,7 @@ element.addEventListener("click", function () {
     let comentario = document.getElementById("coment").value.trim();
     if (!comentario) return;
   
-    //Crear un elemento para agregar 
+    //Crear un elemento para agregar el comentario
     let nuevoComentario = document.createElement("div");
     nuevoComentario.className = "comentariodiv";
   
